@@ -1,3 +1,5 @@
+> As of August 2026 this repository is no longer maintained by the GOV.UK Pay team.
+
 # GOV.UK Prototype kit
 
 Go to the [GOV.UK Prototype Kit site](https://govuk-prototype-kit.herokuapp.com/docs) to download the latest version and read the documentation.
